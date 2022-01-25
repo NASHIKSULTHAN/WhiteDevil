@@ -21,11 +21,11 @@
 
 
   <p align="center">
-<a href="https://github.com/terror-boy"><img title="Author" src="https://img.shields.io/badge/Author-Karthik_terror-boy/WhiteDevil?color=white&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/NASHIKSULTHAN/whatsapp-bot"><img title="Author" src="https://img.shields.io/badge/Author-Karthik_terror-boy/WhiteDevil?color=white&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a> to make it public
+Project created by <a href="https://github.com/NASHIKSULTHAN/whatsapp-bot">Karthik_terror-boy</a> to make it public
     <br>
        | © |
         Reserved |
@@ -35,7 +35,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
 ----
 
   <p align="center">
-  <a href="httsp://github.com/terror-boy/WhiteDevil">
+  <a href="https://github.com/NASHIKSULTHAN/whatsapp-bot
     <img src="https://img.shields.io/github/repo-size/terror-boy/WhiteDevil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/terror-boy/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
